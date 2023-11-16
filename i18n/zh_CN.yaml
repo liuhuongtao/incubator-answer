@@ -833,7 +833,7 @@ ui:
       placeholder: 搜索
   footer:
     build_on: >-
-      基于 <1>Answer</1> - 为问答社区提供动力的开源软件。<br />Made with love © {{cc}}.
+      基于 <1>采购帮商学院</1> - 供应链管理与采购管理专业问答社区<br />Made with love © {{cc}}.
   upload_img:
     name: 更改图片
     loading: 加载中...
